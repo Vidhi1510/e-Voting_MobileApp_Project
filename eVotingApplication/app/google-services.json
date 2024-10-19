@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "353596858195",
+    "project_id": "e-voting-8e2a8",
+    "storage_bucket": "e-voting-8e2a8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:353596858195:android:73b6d14c7ef3df0a8f0ba6",
+        "android_client_info": {
+          "package_name": "com.e_votingapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIBzX6KGMnwFy2XG0QmAVu9xULQ9-GZYc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
